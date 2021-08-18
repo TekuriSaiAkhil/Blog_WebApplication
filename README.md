@@ -1,6 +1,10 @@
 # Blog_WebApplication
 
 
+Used php, javascript for backend
+css3, html5 for frontend
+mysql for database management
+
 You can register/login and use this blog.
 it has posting(public/private),commenting,editing features.
 
