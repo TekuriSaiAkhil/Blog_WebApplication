@@ -3,7 +3,8 @@
 
 Used php, javascript for backend
 css3, html5 for frontend
-mysql for database management
+mysql for database management 
+(U can see the use of javascript, css, html inside some files)
 
 You can register/login and use this blog.
 it has posting(public/private),commenting,editing features.
